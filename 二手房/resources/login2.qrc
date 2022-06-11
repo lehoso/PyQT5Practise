@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="close">
+    <file>../images/close.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>../images/语言翻译.png</file>
+  </qresource>
+</RCC>

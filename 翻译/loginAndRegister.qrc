@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/bronya.jpg</file>
+  </qresource>
+  <qresource prefix="背景">
+    <file>images/980.jpg</file>
+  </qresource>
+  <qresource prefix="fy">
+    <file>images/右箭头.png</file>
+    <file>images/保存.png</file>
+    <file>images/打开.png</file>
+    <file>images/关闭.png</file>
+    <file>images/开始.png</file>
+    <file>images/暂停.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>images/close.png</file>
+  </qresource>
+</RCC>
